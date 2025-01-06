@@ -1,16 +1,6 @@
 # An Template Repository using GitHub Actions and Terraform
-![ProjectType](https://img.shields.io/badge/project--type-terraform--template-success)![uses](https://img.shields.io/badge/uses-github--actions-success)![uses](https://img.shields.io/badge/uses-terraform-success)![uses](https://img.shields.io/badge/uses-aws--cli-success)![Terraform](https://github.com/AWS-Terraform-Projects/keyCloak-eks-cluster/workflows/Terraform/badge.svg)
-
-![status](https://img.shields.io/badge/project--status-work--in--pgoress-informational)
 
 > A Terraform project for provisioning a EKS cluster on AWS. 
->
-> Please see the [wiki page](https://github.com/AWS-Terraform-Projects/terraform-eks-template/wiki) for detailed instructions on using use the template repository
-
- ## Use this template repository
-Create a new GitHub repository by using this template repository. Click on the **Use this template** button as shown below
-  
-<kbd>![](https://github.com/AWS-Terraform-Projects/terraform-eks-template/blob/master/documentation/Terraform-EKS-Template.png)</kbd>
 
 ### Installing and running this project
 <details>
@@ -23,9 +13,6 @@ Create a new GitHub repository by using this template repository. Click on the *
 
 <details>
   <summary>Initialize and run this project</summary>
-  <BR>
-  
-Please see the [wiki page](https://github.com/AWS-Terraform-Projects/terraform-eks-template/wiki) for detailed instructions on using this template repository
- 
+
 </details>
 
